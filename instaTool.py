@@ -136,3 +136,5 @@ logging_in_id = None
 current_message = ""
 
 root.mainloop()
+
+#TODO: allow users to retry login info if credentials are wrong (go back to main login screen)
